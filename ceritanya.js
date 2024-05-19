@@ -1,0 +1,1 @@
+function oke(){console.log("okebos")}
